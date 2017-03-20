@@ -1,6 +1,6 @@
 {
   "name": "xenon-python-tools",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Python tools for Xenon.  Includes linting.",
   "main": "main.js",
   "scripts": {
