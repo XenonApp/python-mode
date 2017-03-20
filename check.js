@@ -1,6 +1,5 @@
-var pythonParse = require("zed/lib/treehugger/python/parse");
-var Sk = require("zed/lib/treehugger/python/skulpt.min");
-require("zed/lib/treehugger/traverse");
+var pythonParse = xenon.lib.treehugger.python.parse;
+var Sk = xenon.lib.treehugger.python.skulpt;
 
 function Scope(parent) {
     this.parent = parent;
